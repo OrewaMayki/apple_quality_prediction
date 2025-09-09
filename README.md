@@ -1,7 +1,5 @@
-# main header
+# Apple Quality Prediction
 
-description!
+using machine learning model to predict the quality of apple in the future
 
-## Subheader
 
-watch tutorial on youtube!
